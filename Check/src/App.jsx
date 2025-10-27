@@ -43,7 +43,7 @@ function App() {
           <div className="media-grid">
             <figure className="media-item">
               <img 
-                src="..\public\img1.jpg" 
+                src="view1.webp" 
                 alt="Sample landscape"
                 className="responsive-image"
               />
@@ -52,7 +52,7 @@ function App() {
             
             <figure className="media-item">
               <img 
-                src="..\public\img2.jpeg" 
+                src="view2.webp" 
                 alt="Nature scene"
                 className="responsive-image"
               />
